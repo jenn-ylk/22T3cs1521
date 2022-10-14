@@ -1,4 +1,4 @@
-# week 3 tutorial
+# week 3 tutorial - reads integers from terminal and stores them in an array + prints these out
 
 N_SIZE = 4
 
