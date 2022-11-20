@@ -1,0 +1,8 @@
+read flags:
+O_RDONLY
+
+write_flags:
+O_WRONLY | O_TRUNC | O_CREAT
+
+append:
+O_WRONLY | O_CREAT | O_APPEND

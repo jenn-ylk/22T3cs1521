@@ -1,0 +1,5 @@
+fopen(FilePath, "r") 
+fopen(FilePath, "a") 
+fopen(FilePath, "w") 
+fopen(FilePath, "r+")
+fopen(FilePath, "w+")
